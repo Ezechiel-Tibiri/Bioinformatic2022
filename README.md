@@ -48,8 +48,8 @@ The shell’s interpretive cycle, shell offerings, pattern matching, escaping an
 
 ### Course Outcomes: 
 On completion of this course, the students are able to: 
-•	Describe history, origin, feature and architecture of UNIX operating system. 
-•	Interact with UNIX system easily. 
-•	Construct and edit files, search for any patterns using regular expressions. 
-•	Solve complex jobs using tools and utilities available in UNIX. 
-•	Design and develop various tasks by using Shell scripting. 
+  -  Describe history, origin, feature and architecture of UNIX operating system.
+  -  Interact with UNIX system easily. 
+  -  Construct and edit files, search for any patterns using regular expressions.
+  -  Solve complex jobs using tools and utilities available in UNIX.
+  -  Design and develop various tasks by using Shell scripting. 
