@@ -6,6 +6,11 @@ Nous allons échanger via **slack** qui est un réseau social professionnel. Tou
 <span style="color:blue"> **NB: Les pseudonymes ne seront pas accepter**.<span>
   
 ## informatiuon sur les éléments didactique
+  - Make sure you have a laptop (Core i5 & 8GB of RAM)
+  - Make sure you have a VM (virtual Machine)
+  - [Install virtualbox](https://www.virtualbox.org)
+  - Check the github/slack regularly
+
 
 ## Intervenants
 
