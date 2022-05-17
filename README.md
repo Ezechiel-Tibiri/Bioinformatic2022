@@ -6,10 +6,10 @@ Nous allons échanger via **slack** qui est un réseau social professionnel. Tou
 <span style="color:blue"> **NB: Les pseudonymes ne seront pas accepter**.<span>
   
 ## informatiuon sur les éléments didactique
-  - Make sure you have a laptop (Core i5 & 8GB of RAM)
+  - Make sure you have a laptop (at least Core i5 & 8GB of RAM)
   - Make sure you have a VM (virtual Machine)
   - [Install virtualbox](https://www.virtualbox.org)
-  - Check the github/slack regularly
+  - Check the [github](https://github.com/Ezechiel-Tibiri/Bioinformatic2022/blob/main/README.md)/[slack](https://slack.com/intl/fr-bf/downloads/mac?geocode=fr-bf) regularly
 
 
 ## Intervenants
@@ -34,6 +34,7 @@ Ensuite, nous vous demandons de lire [le cours en ligne](https://github.com/Ezec
 -	Basics of the Unix command line interface
 -	Manipulating files and directories
 -	Manipulating data
+
 *Temps estimé : 8 heures.
 
 ### Course Objectives: 
@@ -72,3 +73,11 @@ On completion of this course, the students are able to:
   -  Construct and edit files, search for any patterns using regular expressions.
   -  Solve complex jobs using tools and utilities available in UNIX.
   -  Design and develop various tasks by using Shell scripting. 
+  
+## Introduction aux bases de données et aux ressources
+  ### Objectifs du cours
+  - Comprendre la structure et la disposition des ressources de données sur [NCBI](https://www.ncbi.nlm.nih.gov) et [EBI](https://www.ebi.ac.uk)
+  - Comprendre la différence entre les bases de données, les outils et les repositories.
+  - Recherche de données dans des bases de données spécifiques à l'aide de numéros d'accès, de noms de gènes, etc.
+  - Utiliser les ressources [NCBI](https://www.ncbi.nlm.nih.gov) et [EBI](https://www.ebi.ac.uk)
+  
