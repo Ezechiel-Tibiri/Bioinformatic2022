@@ -74,7 +74,7 @@ On completion of this course, the students are able to:
   -  Solve complex jobs using tools and utilities available in UNIX.
   -  Design and develop various tasks by using Shell scripting. 
   
-## Introduction aux bases de données et aux ressources
+## [Introduction aux bases de données et aux ressources]()
   ### Objectifs du cours
   - Comprendre la structure et la disposition des ressources de données sur [NCBI](https://www.ncbi.nlm.nih.gov) et [EBI](https://www.ebi.ac.uk)
   - Comprendre la différence entre les bases de données, les outils et les repositories.
